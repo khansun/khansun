@@ -1,4 +1,4 @@
-[![Header](https://media-exp1.licdn.com/dms/image/C5603AQGMs1RnfDYcVw/profile-displayphoto-shrink_400_400/0/1624560740928?e=1661990400&v=beta&t=JxaEtVAPZ2Cbsq9oAwEBZvYMlnOhJR4qksTUE0dybDs)](https://github.com/khansun)
+[![Header](https://scontent.fdac23-1.fna.fbcdn.net/v/t1.6435-9/69624692_2437654272990668_3095872702527832064_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=19026a&_nc_ohc=7Q8RHRMT0noAX-orDDR&_nc_ht=scontent.fdac23-1.fna&oh=00_AT9f0xQNzZ8XR2TfZlGBtx_G_BOHBoGNNpaH0Ro3TpaPOw&oe=62E3E93C)](https://github.com/khansun)
 
 <p align="center">
   <a href="mailto:khan.r.mahmud@gmail.com" target="_blank">
@@ -27,8 +27,6 @@
 ![badge-flask](https://img.shields.io/badge/framework-flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
 ![badge-django](https://img.shields.io/badge/framework-django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
 ![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
-![badge-mongo](https://img.shields.io/badge/database-mongodb-f6c819?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
-![badge-redis](https://img.shields.io/badge/database-redis-f6c819?style=for-the-badge&logo=redis&logoColor=white&labelColor=21223e)
 ![badge-nginx](https://img.shields.io/badge/server-nginx-f6c819?style=for-the-badge&logo=nginx&logoColor=white&labelColor=21223e)
 ![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
 ![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
@@ -46,7 +44,6 @@
   <img  height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansun&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
 </p>
 
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=khansun&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
-
-
-
+<p align="center" >
+<img height="300" src="https://github-profile-trophy.vercel.app/?username=khansun&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
+</p>
