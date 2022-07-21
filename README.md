@@ -5,7 +5,7 @@
   <img alt="Sun's Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   <a href="https://www.linkedin.com/in/mahamudur-rahaman-khan" target="_blank">
-    <img alt="Samyo's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Sun's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://stackoverflow.com/users/10645001/khansun" target="_blank">
     <img alt="Sun's StackOverflow" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
@@ -18,7 +18,7 @@
 
 
 ## ⚙️ Tech stack
-![badge-shell](https://img.shields.io/badge/shell-zsh-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
+![badge-shell](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
 ![badge-python](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
 ![badge-c++](https://img.shields.io/badge/code-c%2B%2B-f6c819?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=21223e)
 ![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
