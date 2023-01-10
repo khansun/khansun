@@ -1,4 +1,4 @@
-[![Header](https://assets10.lottiefiles.com/temp/lf20_ERpSsi.json)](https://github.com/khansun)
+[![Header](https://github.com/khansun)](https://github.com/khansun)
 
 <p align="center">
   <a href="mailto:khan.r.mahmud@gmail.com" target="_blank">
