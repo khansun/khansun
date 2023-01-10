@@ -1,4 +1,3 @@
-[![Header](https://github.com/khansun)](https://github.com/khansun)
 
 <p align="center">
   <a href="mailto:khan.r.mahmud@gmail.com" target="_blank">
