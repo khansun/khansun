@@ -1,23 +1,23 @@
 <p align="center">
   <a href="mailto:khan.r.mahmud@gmail.com" target="_blank">
-  <img alt="Sun's Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img alt="Gmail" width="35px" src="https://cdn.simpleicons.org/gmail/EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/mahamudur-rahaman-khan" target="_blank">
-    <img alt="Sun's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="LinkedIn" width="35px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
   <a href="https://stackoverflow.com/users/10645001/khansun" target="_blank">
-    <img alt="Sun's StackOverflow" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+    <img alt="StackOverflow" width="35px" src="https://cdn.simpleicons.org/stackoverflow/F48023" />
   </a>
-    <a href="https://github.com/khansun" target="_blank">
-    <img alt="Suns's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/khansun" target="_blank">
+    <img alt="Github" width="35px" src="https://cdn.simpleicons.org/github/181717" />
   </a>
 </p>
 
 ## 🏆 Highlights
-* **🤖 AI/ML Research:** Published IEEE researcher specializing in Machine Learning, Natural Language Processing, and Explainable AI.
+* **🤖 AI/ML Research:** Published researcher specializing in Machine Learning, Natural Language Processing, and Explainable AI.
 * **🏗️ Engineering Leadership:** Led the end-to-end architecture and development of high-scale enterprise systems and distributed platforms.
-* **🔬 Academic Impact:** Contributing Peer Reviewer for international research journals and incoming graduate scholar.
-  
+* **🔬 Academic Impact:** Contributing peer reviewer for international research journals and incoming graduate scholar.
+
 ## ⚙️ Tech stack
 ![bash](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=21223e)
 ![python](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
